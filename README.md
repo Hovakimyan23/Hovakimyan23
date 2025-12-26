@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hovakimyan23
-- 🌱 I’m currently learning javascript & phyton
+- 🌱 I’m currently learning javascript & phyton // https://leetcode.com/u/hovakimyan23/
 - 💞️ I’m looking to collaborate on any project conected to js
 - 📫 How to reach me. Email: sergeihovakimyan@gmail.com // linkedin: https://www.linkedin.com/in/hovakimyan23/
 
